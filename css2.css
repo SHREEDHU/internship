@@ -1,0 +1,41 @@
+.header{
+    
+    text-align: center;
+}
+.middle{
+    
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns:400px 400px 400px ;
+}
+.a{
+    
+    background-repeat: no-repeat;
+}
+#abc{
+    height: 300px;
+    width: 400px;
+}
+#first{
+    display: flex;
+    gap: 0px;
+}
+#img img{
+    
+    
+       border-radius: 2px solid black;
+    
+        
+}
+#un{
+    border-bottom: 3px solid orange;
+}
+#introi{
+    background-image: url("manlake.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 3.8rem;
+}
+.main{
+    background-color: bisque;
+}
